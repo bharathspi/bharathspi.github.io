@@ -49,6 +49,6 @@ social_media:
 topics:
   - name: GSOC
     web_url: https://summerofcode.withgoogle.com/
-    image_url:https://1.bp.blogspot.com/-T-jEcKc3EIc/XJVXUldWEJI/AAAAAAAAB4U/Mqk1-XPQ0LEuemA16SXUQ4gbeXwjiDFDwCLcBGAs/s320/GSoC%2B-%2BVertical%2BWide%2B-%2BGray%2BText%2B-%2BWhite%2BBG.png
+    image_url: https://1.bp.blogspot.com/-T-jEcKc3EIc/XJVXUldWEJI/AAAAAAAAB4U/Mqk1-XPQ0LEuemA16SXUQ4gbeXwjiDFDwCLcBGAs/s320/GSoC%2B-%2BVertical%2BWide%2B-%2BGray%2BText%2B-%2BWhite%2BBG.png
 
 theme: jekyll-theme-cayman
